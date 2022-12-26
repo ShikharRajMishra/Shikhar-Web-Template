@@ -1,0 +1,70 @@
+const data=[
+{
+id:1,
+image:IMG1,
+name:'Shikhar Success mania',
+Discription:'Create a Responsive Corporate Website using HTML,CSS,JAVA-SCRIPT',
+github:'https://github.com/ShikharRajMishra/Success-mania-Flex-website-',
+demo:'https://shikharsuccessmania.netlify.app/'
+},
+{
+id:2,
+image:IMG2,
+name:'Music website',
+Discription:'Create a multipage responsive music website using HTML,CSS,JAVA-SCRIPT',
+github:'https://github.com/ShikharRajMishra/Music-PlayList-Website',
+demo:'https://shikharmusicsite.netlify.app/'
+},
+{
+id:3,
+image:IMG3,
+name:'Analog and Digital Clock',
+Discription:'Create a beautiful HTML,CSS,JAVA-SCRIPT',
+github:'https://github.com/ShikharRajMishra/Analog-and-Digital-watch',
+demohttps:'https://shikharclock.netlify.app/'
+},
+{
+id:4,
+image:IMG4,
+name:'Calculator',
+Discription:'Create a glasmorphism Calculator using HTML,CSS,JAVA-SCRIPT',
+github:'https://github.com/ShikharRajMishra/Calculator',
+demo:'https://shikharcalculator.netlify.app/'
+},
+{
+id:5,
+image:IMG5,
+name:'Web Developer Guide',
+Discription:'Create a Web developer-guide using HTML, CSS',
+github:'https://github.com/ShikharRajMishra/Web-developer-guide',
+demo:'https://webdeveloperguide.netlify.app/'},
+{
+id:6,
+image:IMG6,
+name:'KGF Card Box',
+Discription:'Create a Responsive Kgf Card Box Website  using HTML,CSS',
+github:'https://github.com/ShikharRajMishra/KGF-Responsive-card',
+demo:'https://kgfcardboxsite.netlify.app/'},
+{
+id:7,
+image:IMG7,
+name:'Dumy Responsive layout',
+Discription:'Create a Dumy Responsive website layout using media-query',
+github:'https://github.com/ShikharRajMishra/Responsive-layout',
+demo:'https://dumyweblayout.netlify.app/'},
+{
+id:8,
+image:IMG8,
+name:'Singing Registration Form',
+Discription:'Create a Singing Registration Form apply Validation Using HTML,CSS',
+github:'https://github.com/ShikharRajMishra/Registration-form-CSS-Validation',
+demo:'https://singingregistrationform.netlify.app/'},
+{
+id:9,
+image:IMG9,
+name:'Flex typical layout',
+Discription:'Create a Layout using suing flex property of css',
+github:'https://github.com/ShikharRajMishra/Flexbox--layout',
+demo:'https://layoutflex.netlify.app/'
+}
+]
